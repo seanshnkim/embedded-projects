@@ -1,0 +1,14 @@
+Debug
+.cproject
+.mxproject
+.project
+UART2_Example/.settings
+UART2_Example/STM32F446RETX_FLASH.ld
+UART2_Example/STM32F446RETX_RAM.ld
+UART2_Example/UART2_Example_F429I.ioc
+UART2_Example/UART2_Example.launch
+UART2_Example/Core/Startup/*
+UART2_Example/Drivers/CMSIS/Include/*
+UART2_Example/Drivers/STM32F4xx_HAL_Driver/Inc/*
+UART2_Example/Drivers/STM32F4xx_HAL_Driver/Src/*
+UART2_Example/Drivers/CMSIS/Device/ST/STM32F4xx/Include/*
